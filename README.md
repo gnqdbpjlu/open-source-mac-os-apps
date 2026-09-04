@@ -2,29 +2,37 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome open-source applications for macOS. Inspired by the awesome list movement.
+Awesome list of open source applications for macOS. Inspired by the `awesome` project.
 
 ## Contents
 
 - [Audio](#audio)
 - [Developer Tools](#developer-tools)
-- [Productivity](#productivity)
+- [System](#system)
 - [Utilities](#utilities)
 
 ---
 
-### Developer Tools
+## Audio
 
-- [DevCleaner](https://github.com/vashpan/DevCleaner) - Reclaim disk space by cleaning Xcode caches and derived data. `[SwiftUI]`
-- [XCodeCleaner](https://github.com/1373507119/XCodeCleaner) - Xcode cache cleanup utility for macOS. `[Swift]`
-- [GitUp](https://github.com/git-up/GitUp) - Clean and minimal Git client built for macOS. `[Objective-C]`
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Audio control for macOS. `GPL-2.0` `Swift` / `C++`
 
-### Utilities
+## Developer Tools
 
-- [Stats](https://github.com/exelban/stats) - macOS system monitor in menu bar. `[Swift]`
-- [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS. `[Swift]`
-- [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows in macOS using keyboard shortcuts. `[Swift]`
+- [DevToysMac](https://github.com/ObviousCode/DevToysMac) - A Swiss Army knife for developers on macOS. `MIT` `SwiftUI`
+- [IINA](https://github.com/iina/iina) - Modern media player for macOS written in Swift. `GPL-3.0` `Swift`
+- [SwiftUI Companion](https://github.com/exy/SwiftUI-Companion) - App to explore SwiftUI components in real-time. `MIT` `SwiftUI`
+
+## System
+
+- [Stats](https://github.com/exelban/stats) - macOS system monitor in menu bar. `MIT` `Swift`
+- [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS. `MIT` `Swift`
+
+## Utilities
+
+- [Raycast Extensions](https://github.com/raycast/extensions) - Open source extensions for Raycast launcher. `MIT` `TypeScript`
+- [Keka](https://github.com/aonez/Keka) - The macOS file archiver. `GPL-2.0` `Objective-C`
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
